@@ -9,26 +9,26 @@
 
 ##	图片加载库
 
-|图片库|作者|推荐理由|
-|:------:|:------:|:------:|
-|[Glide](https://github.com/bumptech/glide)|bumptech|支持Gif，google官方推荐的图片加载库，在google的众多App中都采用了该库|
-|[Fresco](https://github.com/facebook/fresco)|Facebook|支持Gif，Facebook出品，必属精品，Fresco另辟蹊径使用Native方法来管理图片，专注解决图片内存溢出问题|
-|[Picasso](https://github.com/square/picasso)|Square|开源大户Square出品，和Glide用法及其相似，Glide体积更小，JakeWharton大神所在公司|
-|[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|nostra13|老牌图片加载库，在上述图片加载库没出来之前，使用最多的开源图片库。但是，该项目已被作者废弃不在维护，不建议使用，用来学习图片异步加载和图片管理还是极好的|
+|                   图片库                    |    作者    |                   推荐理由                   |
+| :--------------------------------------: | :------: | :--------------------------------------: |
+| [Glide](https://github.com/bumptech/glide) | bumptech | 支持Gif，google官方推荐的图片加载库，在google的众多App中都采用了该库 |
+| [Fresco](https://github.com/facebook/fresco) | Facebook | 支持Gif，Facebook出品，必属精品，Fresco另辟蹊径使用Native方法来管理图片，专注解决图片内存溢出问题 |
+| [Picasso](https://github.com/square/picasso) |  Square  | 开源大户Square出品，和Glide用法及其相似，Glide体积更小，JakeWharton大神所在公司 |
+| [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | nostra13 | 老牌图片加载库，在上述图片加载库没出来之前，使用最多的开源图片库。但是，该项目已被作者废弃不在维护，不建议使用，用来学习图片异步加载和图片管理还是极好的 |
 
 ##	网络请求库
 
-|网络库|作者|推荐理由|
-|:------:|:------:|:------:|
-|OkHttp|Square||
-|Retrofit|Square||
-|Volley|Google||
+|   网络库    |   作者   | 推荐理由 |
+| :------: | :----: | :--: |
+|  OkHttp  | Square |      |
+| Retrofit | Square |      |
+|  Volley  | Google |      |
 
 ##	网络缓存
 
-|缓存库|作者|推荐理由|
-|:------:|:------:|:------:|
-|[DiskLruCache](https://github.com/JakeWharton/DiskLruCache)|JakeWharton||
-|[ASimpleCache](https://github.com/yangfuhai/ASimpleCache)|杨福海|afinal框架作者，国内Android大神|
+|                   缓存库                    |     作者      |                   推荐理由                   |
+| :--------------------------------------: | :---------: | :--------------------------------------: |
+| [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | JakeWharton | JakeWharton大神的杰作，缓存神奇，值得信赖。源码解析和用法参考文章：[Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)，[Android DiskLruCache源码解析 硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585) |
+| [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) |     杨福海     | afinal框架作者，国内Android大神。它是一个为Android制定的轻量级的缓存框架，只有一个java文件。支持自定义缓存路径、大小、缓存超时时间等。[ASimpleCache源码分析](http://blog.csdn.net/zhoubin1992/article/details/46379055) |
 
 
