@@ -13,10 +13,7 @@
 -  [微信公众号推荐](#微信公众号推荐)
 
 -  [开发工具](#开发工具)
-    -[联系我](#联系我)
-
-    ​
-
+-  [联系我](#联系我)
 
 ##	图片加载库
 
@@ -55,7 +52,7 @@
 |     [Trinea](http://www.trinea.cn/)      | codeKK项目发起人，收集了众多的开源项目以及开源项目源码分析，查看开源项目源码的好地方。 |
 |   [大头鬼](http://blog.csdn.net/lzyzsd/)    |     阿里巴巴工程师，力推RxJava，写了一系列RxJava文章。      |
 |     [Piasy](http://blog.piasy.com/)      |        翻译达人，翻译了众多国外技术文档和开源项目源码分析。        |
-
+|[廖祜秋](https://www.liaohuqiu.net/)|人称"秋百万"，Ultra-Pull-To-Refresh开源库作者，Facebook开源图片加载库Fresco翻译作者|
 
 
 ##	微信公众号推荐
