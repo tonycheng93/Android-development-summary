@@ -1,10 +1,10 @@
 #	Android	开发资料汇总
 
-收集这份资料的灵感来源于我的浏览器收藏夹快爆了，后来在github 上也看到了很优秀的开源库的收集资料，非常的好，但是太过于多，也不够新，所以决定自己来做一个。原始的markdowm文件已经放到github上，欢迎[下载和star](https://github.com/tonycheng93/Android-development-summary) 。这份资料我会不断的完善，也欢迎一些经验丰富的开发者可以一起来完善，直接[pull request](https://github.com/tonycheng93/Android-development-summary/pulls) 或者[issue](https://github.com/tonycheng93/Android-development-summary/issues)，我会定期筛选合并，有一些好的建议和意见随时[联系我](#联系我)，欢迎转载，谢谢收藏。
+学习Android开发这一路走来，深知自学的不易。刚开始接触某一个新兴的技术，总是在网上漫无目的的搜索各种文章，而这些文章良莠不齐的，浪费了大量时间来辨别这些东西是否对自己有用。后来在github上面看到了许多优秀的开源项目，浏览器收藏夹也不知道到底收藏了多少，但是没有一个很好的分类。于是便萌生了一个想法，自己把学习过程中查阅的优秀文章和开源项目做一个整理。同时也会分享一些自己觉得能够提高工作效率的工具。希望这份资料能够给刚开始学习Android的开发者提供一点帮助，节约一些查找资料的时间。原始的markdowm文件已经放到github上，欢迎[下载和star](https://github.com/tonycheng93/Android-development-summary) 。这份资料我会不断的完善，也欢迎一些经验丰富的开发者可以一起来完善，直接[pull request](https://github.com/tonycheng93/Android-development-summary/pulls) 或者[issue](https://github.com/tonycheng93/Android-development-summary/issues)，我会定期筛选合并，有一些好的建议和意见随时[联系我](#联系我)，欢迎转载，谢谢收藏。
 ##	目录
 -	[图片加载库](#图片加载库)
-   -[网络请求库](#网络请求库)
-   -[网络缓存](#网络缓存)
+-  [网络请求库](#网络请求库)
+-  [网络缓存](#网络缓存)
 -	[联系我](#联系我)
 
 
