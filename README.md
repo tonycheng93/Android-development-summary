@@ -69,6 +69,7 @@
 | [Lantern(蓝灯)](https://getlantern.org/) |            有免费版，速度一般，对于一般搜索足够            |
 | [Postman](https://www.getpostman.com/) |     极其推荐，绝对的API调试神器，我的Chrome上必装的一个插件     |
 |    [Bejson](http://www.bejson.com/)    |              在线查看和生成Json实体               |
+|[矢量图标库](http://www.iconfont.cn/plus)|阿里巴巴矢量图标库，种类很全，对于不会设计的工程师太有用了|
 
 ##	联系我
 
