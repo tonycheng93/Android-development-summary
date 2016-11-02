@@ -22,8 +22,8 @@
 
 |                   图片库                    |    作者    |                   推荐理由                   |
 | :--------------------------------------: | :------: | :--------------------------------------: |
-| [Glide](https://github.com/bumptech/glide) | bumptech | 支持Gif，google官方推荐的图片加载库，在google的众多App中都采用了该库 |
-| [Fresco](https://github.com/facebook/fresco) | Facebook | 支持Gif，Facebook出品，必属精品，Fresco另辟蹊径使用Native方法来管理图片，专注解决图片内存溢出问题 |
+| [Glide](https://github.com/bumptech/glide) | bumptech | 支持Gif，google官方推荐的图片加载库，在google的众多App中都采用了该库 ;[Google I/O 2014 Glide 介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html);[Glide非官方文档，超详细，值得看](http://mrfu.me/2016/02/27/Glide_Getting_Started/)|
+| [Fresco](https://github.com/facebook/fresco) | Facebook | 支持Gif，Facebook出品，必属精品，Fresco另辟蹊径使用Native方法来管理图片，专注解决图片内存溢出问题;[Fresco官方文档中文翻译版，"秋百万"作品，Fresco看着就够了](https://www.fresco-cn.org/docs/)|
 | [Picasso](https://github.com/square/picasso) |  Square  | 开源大户Square出品，和Glide用法极其相似，Glide体积更小，JakeWharton大神所在公司 |
 | [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | nostra13 | 老牌图片加载库，在上述图片加载库没出来之前，使用最多的开源图片库。但是，该项目已被作者废弃不再维护，不建议使用，用来学习图片异步加载和图片管理还是极好的 |
 
