@@ -8,11 +8,14 @@
 
 -  [网络缓存](#网络缓存)
 
+-  [常用网站](#常用网站)
+
 -  [博客推荐](#博客推荐)
 
 -  [微信公众号推荐](#微信公众号推荐)
 
 -  [开发工具](#开发工具)
+
 -  [联系我](#联系我)
 
 ##	图片加载库
@@ -38,6 +41,12 @@
 | :--------------------------------------: | :---------: | :--------------------------------------: |
 | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | JakeWharton | JakeWharton大神的杰作，缓存神奇，值得信赖。源码解析和用法参考文章：[Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)，[Android DiskLruCache源码解析 硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585) |
 | [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) |     杨福海     | afinal框架作者，国内Android大神。它是一个为Android制定的轻量级的缓存框架，只有一个java文件。支持自定义缓存路径、大小、缓存超时时间等。[ASimpleCache源码分析](http://blog.csdn.net/zhoubin1992/article/details/46379055) |
+
+##  常用网站
+|网站名称|推荐理由|
+|:-----:|:------:|
+|[Google](https://www.google.com/)|google搜索，码农必用搜索引擎(首先你要会翻墙)|
+|[Github](https://github.com/)|全世界最大的同性交友网站:sweat_smile:|
 
 ##	博客推荐
 
