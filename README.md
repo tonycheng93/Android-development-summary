@@ -70,6 +70,7 @@
 | [Postman](https://www.getpostman.com/) |     极其推荐，绝对的API调试神器，我的Chrome上必装的一个插件     |
 |    [Bejson](http://www.bejson.com/)    |              在线查看和生成Json实体               |
 |[矢量图标库](http://www.iconfont.cn/plus)|阿里巴巴矢量图标库，种类很全，对于不会设计的工程师太有用了|
+|[Android Studio翻译插件](https://github.com/Skykai521/ECTranslation)|Android Studio内部翻译插件，对于查看Android源码很有帮助|
 
 ##	联系我
 
