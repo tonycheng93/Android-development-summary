@@ -45,8 +45,11 @@
 ##  常用网站
 |网站名称|推荐理由|
 |:-----:|:------:|
-|[Google](https://www.google.com/)|google搜索，码农必用搜索引擎(首先你要会翻墙)|
-|[Github](https://github.com/)|全世界最大的同性交友网站:sweat_smile:|
+|[Google](https://www.google.com/)|google搜索，码农必用搜索引擎(首先你要会翻墙:joy:)|
+|[Android官网](https://developer.android.com/index.html)|Android官网，Android开发必看的网站，API Guides、Training(你还是要会翻墙:joy:)|
+|[Github](https://github.com/)|全世界最大的同性交友网站:sweat_smile:，拥有众多的优秀开源项目，你想要的它都有|
+|[StackOverflow](http://stackoverflow.com/)|最专业的技术问答网站，不要英语而放弃使用它，你遇到的问题基本都可以在上面找到答案|
+|[CSDN](http://www.csdn.net/)|全球最大的中文IT社区，众多的博主在上面分享自己的文章|
 
 ##	博客推荐
 
