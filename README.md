@@ -65,7 +65,7 @@
 
 |                  工具名称                  |                   推荐理由                   |
 | :------------------------------------: | :--------------------------------------: |
-|              Shadowsocks               | 翻墙界的"瑞士军刀"，极其推荐，在专业搜索上，百度和google真的不是一个级别的 |
+|              [Shadowsocks](https://shadowsocks.com/)               | 翻墙界的"瑞士军刀"，极其推荐，在专业搜索上，百度和google真的不是一个级别的 |
 | [Lantern(蓝灯)](https://getlantern.org/) |            有免费版，速度一般，对于一般搜索足够            |
 | [Postman](https://www.getpostman.com/) |     极其推荐，绝对的API调试神器，我的Chrome上必装的一个插件     |
 |    [Bejson](http://www.bejson.com/)    |              在线查看和生成Json实体               |
