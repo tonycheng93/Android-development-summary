@@ -88,7 +88,10 @@
 ##  书籍推荐
 |书籍名称|推荐理由|
 |:------:|:------:|
-|第一行代码|“郭神”作品，新人入门必看书籍|
+|[第一行代码](https://book.douban.com/subject/25942191/)|“郭神”作品，新人入门必看书籍|
+|[Android群英传](https://book.douban.com/subject/26599539/)|"徐医生"大作，适合有一定Android基础的读者|
+|[Android 源码设计模式解析与实战](https://book.douban.com/subject/26644935/)|作者何红辉/关爱民，阿里巴巴旗下友盟的高级程序员，CSDN博客专家，将Android源码与设计模式完美结合起来，进阶必看书籍|
+|[Android编程权威指南（第2版）](https://book.douban.com/subject/26789110/)|美国一家移动技术开发培训机构出版的书籍，十分专业，推荐阅读|
 
 ##	开发工具
 
