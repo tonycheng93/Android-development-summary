@@ -20,7 +20,11 @@
 
 -  [书籍推荐](#书籍推荐)
 
+-  [RxJava系列](#RxJava系列)
+
 -  [开发工具](#开发工具)
+
+-  [Android Studio常用插件](#Android Studio常用插件)
 
 -  [联系我](#联系我)
 
@@ -101,6 +105,14 @@
 |[Android 源码设计模式解析与实战](https://book.douban.com/subject/26644935/)|作者何红辉/关爱民，阿里巴巴旗下友盟的高级程序员，CSDN博客专家，将Android源码与设计模式完美结合起来，进阶必看书籍|
 |[Android编程权威指南（第2版）](https://book.douban.com/subject/26789110/)|美国一家移动技术开发培训机构出版的书籍，十分专业，推荐阅读|
 
+##  RxJava系列
+|文章地址|推荐理由|
+|:------:|:------:|
+|[给 Android 开发者的 RxJava 详解](https://gank.io/post/560e15be2dca930e00da1083)|扔物线大作，RxJava入门必看文章|
+|[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)|匠心写作上一篇非常不错的RxJava与Retrofit结合的实战类文章|
+|[关于RxJava的系列文章](https://github.com/lzyzsd/Awesome-RxJava)|收集了一系列关于RxJava的文章，很全面的文章|
+|[ReactiveX官方文档中文翻译版](ReactiveX)|ReactiveX官方文档，深入学习ReactiveX必看文章|
+
 ##	开发工具
 
 |                  工具名称                  |                   推荐理由                   |
@@ -110,8 +122,12 @@
 | [Postman](https://www.getpostman.com/) |     极其推荐，绝对的API调试神器，我的Chrome上必装的一个插件     |
 |    [Bejson](http://www.bejson.com/)    |              在线查看和生成Json实体               |
 |[矢量图标库](http://www.iconfont.cn/plus)|阿里巴巴矢量图标库，种类很全，对于不会设计的工程师太有用了|
-|[Android Studio翻译插件](https://github.com/Skykai521/ECTranslation)|Android Studio内部翻译插件，对于查看Android源码很有帮助|
 
+##  Android Studio常用插件
+|常用插件|推荐理由|
+|:-----:|:------:|
+|[GsonFormat](https://plugins.jetbrains.com/plugin/7654)|根据Json一键生成对应的实体类，不用自己手动去书写大量的实体类，极力推荐|
+|[Android Studio翻译插件](https://github.com/Skykai521/ECTranslation)|Android Studio内部翻译插件，对于查看Android源码很有帮助|
 ##	联系我
 
 - Email：tonycheng93@outlook.com
