@@ -106,6 +106,7 @@
 |[Android编程权威指南（第2版）](https://book.douban.com/subject/26789110/)|美国一家移动技术开发培训机构出版的书籍，十分专业，推荐阅读|
 
 ##  RxJava系列
+
 |文章地址|推荐理由|
 |:------:|:------:|
 |[给 Android 开发者的 RxJava 详解](https://gank.io/post/560e15be2dca930e00da1083)|扔物线大作，RxJava入门必看文章|
@@ -124,6 +125,7 @@
 |[矢量图标库](http://www.iconfont.cn/plus)|阿里巴巴矢量图标库，种类很全，对于不会设计的工程师太有用了|
 
 ##  Android Studio常用插件
+
 |常用插件|推荐理由|
 |:-----:|:------:|
 |[GsonFormat](https://plugins.jetbrains.com/plugin/7654)|根据Json一键生成对应的实体类，不用自己手动去书写大量的实体类，极力推荐|
