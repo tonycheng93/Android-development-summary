@@ -128,6 +128,7 @@
 |:-----:|:------:|
 |[GsonFormat](https://plugins.jetbrains.com/plugin/7654)|根据Json一键生成对应的实体类，不用自己手动去书写大量的实体类，极力推荐|
 |[Android Studio翻译插件](https://github.com/Skykai521/ECTranslation)|Android Studio内部翻译插件，对于查看Android源码很有帮助|
+
 ##	联系我
 
 - Email：tonycheng93@outlook.com
