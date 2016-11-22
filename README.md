@@ -24,6 +24,8 @@
 
 -  [Retrofit系列](#Retrofit系列)
 
+-  [MVP系列](#MVP系列)
+
 -  [开发工具](#开发工具)
 
 -  [Android Studio常用插件](#Android Studio常用插件)
@@ -123,6 +125,13 @@
 |[Square官网文档](https://square.github.io/retrofit/)|官方文档，不解释|
 |[Android Retrofit 2.0使用](http://wuxiaolong.me/2016/01/15/retrofit/)|比较详细的用法讲解|
 |[用Retrofit2简化HTTP请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)|Jake Wharton大作，不看你会后悔的|
+
+#   MVP系列
+|文章地址|推荐理由|
+|:------:|:------:|
+|[Android-architecture](https://github.com/googlesamples/android-architecture)|google官方MVP示例，你能不看？|
+|[MVP模式在Android项目中的使用](http://www.liuling123.com/2015/12/mvp-pattern-android.html)|一个比较完善的MVP新闻客户端示例|
+|[Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)|外国人写的MVP示例，值得一看|
 
 ##	开发工具
 
