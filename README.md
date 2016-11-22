@@ -22,6 +22,8 @@
 
 -  [RxJava系列](#RxJava系列)
 
+-  [Retrofit系列](#Retrofit系列)
+
 -  [开发工具](#开发工具)
 
 -  [Android Studio常用插件](#Android Studio常用插件)
@@ -113,6 +115,14 @@
 |[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)|匠心写作上一篇非常不错的RxJava与Retrofit结合的实战类文章|
 |[关于RxJava的系列文章](https://github.com/lzyzsd/Awesome-RxJava)|收集了一系列关于RxJava的文章，很全面的文章|
 |[ReactiveX官方文档中文翻译版](ReactiveX)|ReactiveX官方文档，深入学习ReactiveX必看文章|
+
+#   Retrofit系列
+
+|文章地址|推荐理由|
+|:------:|:------:|
+|[Square官网文档](https://square.github.io/retrofit/)|官方文档，不解释|
+|[Android Retrofit 2.0使用](http://wuxiaolong.me/2016/01/15/retrofit/)|比较详细的用法讲解|
+|[用Retrofit2简化HTTP请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)|Jake Wharton大作，不看你会后悔的|
 
 ##	开发工具
 
