@@ -118,7 +118,7 @@
 |[关于RxJava的系列文章](https://github.com/lzyzsd/Awesome-RxJava)|收集了一系列关于RxJava的文章，很全面的文章|
 |[ReactiveX官方文档中文翻译版](ReactiveX)|ReactiveX官方文档，深入学习ReactiveX必看文章|
 
-#   Retrofit系列
+##  Retrofit系列
 
 |文章地址|推荐理由|
 |:------:|:------:|
@@ -126,7 +126,7 @@
 |[Android Retrofit 2.0使用](http://wuxiaolong.me/2016/01/15/retrofit/)|比较详细的用法讲解|
 |[用Retrofit2简化HTTP请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)|Jake Wharton大作，不看你会后悔的|
 
-#   MVP系列
+##  MVP系列
 |文章地址|推荐理由|
 |:------:|:------:|
 |[Android-architecture](https://github.com/googlesamples/android-architecture)|google官方MVP示例，你能不看？|
