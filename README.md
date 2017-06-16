@@ -132,6 +132,7 @@
 |[Android-architecture](https://github.com/googlesamples/android-architecture)|google官方MVP示例，你能不看？|
 |[MVP模式在Android项目中的使用](http://www.liuling123.com/2015/12/mvp-pattern-android.html)|一个比较完善的MVP新闻客户端示例|
 |[Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)|外国人写的MVP示例，值得一看|
+|[Android-boilerplate](https://github.com/ribot/android-boilerplate)|不同于常见的MVP模式，非常值得借鉴|
 
 ##	开发工具
 
