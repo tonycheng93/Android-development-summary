@@ -10,6 +10,8 @@
 
 -  [网络缓存](#网络缓存)
 
+-  [视频播放](#视频播放)
+
 -  [数据解析](#数据解析)
 
 -  [常用网站](#常用网站)
@@ -61,6 +63,12 @@
 | :--------------------------------------: | :---------: | :--------------------------------------: |
 | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | JakeWharton | JakeWharton大神的杰作，缓存神奇，值得信赖。源码解析和用法参考文章：[Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)，[Android DiskLruCache源码解析 硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585) |
 | [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) |     杨福海     | afinal框架作者，国内Android大神。它是一个为Android制定的轻量级的缓存框架，只有一个java文件。支持自定义缓存路径、大小、缓存超时时间等。[ASimpleCache源码分析](http://blog.csdn.net/zhoubin1992/article/details/46379055) |
+
+## 视频播放
+|视频库|作者|推荐理由|
+|:------:|:------:|:------:|
+|[ExoPlayer](https://github.com/google/ExoPlayer)|Google|Google亲儿子，提供了一种替代MediaPlayer的方案|
+|[ijkplayer](https://github.com/Bilibili/ijkplayer)|Bilibili|B站良心出品，在视频播放方面绝对神器，众多视频类app都采用了ijkplayer,极力推荐|
 
 ##  数据解析
 
